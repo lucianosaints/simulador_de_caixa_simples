@@ -11,11 +11,13 @@
 - Nathalia
 - Pedro
 - Wever 
--
-## 🚀 Funcionalidades
-- Cadastro de clientes
-- Cadastro de limites de compras de clientes 
+- Fabiano
+## 🚀 Funcionalidades.
+- Cadastro de clientes.
+- Cadastro de limites de compras de clientes. 
 - Recibo de compras.
+- Adicionar CPF na nota.
+-
 ## 🧱 Estrutura de diretórios
 
 ```.
